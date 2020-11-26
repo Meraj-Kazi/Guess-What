@@ -1,15 +1,16 @@
-    html {
-      font-family: sans-serif;
-    }
+html {
+    font-family: sans-serif;
+}
 
-    body {
-      width: 50%;
-      max-width: 800px;
-      min-width: 480px;
-      margin: 0 auto;
-    }
+body {
+    background-image: url(img/background-1.png);
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
 
-    .lastResult {
-      color: white;
-      padding: 3px;
-    }
+.lastResult {
+    color: white;
+    padding: 3px;
+}
